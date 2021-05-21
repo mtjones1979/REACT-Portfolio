@@ -1,3 +1,7 @@
-nav.navbar.navbar-default {
+nav.navbar {
     margin-bottom: 0;
-  }
+    background: black;
+}
+li.nav-item {
+    color: white;
+}

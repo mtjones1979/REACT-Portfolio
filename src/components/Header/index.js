@@ -4,7 +4,7 @@ import "./style.css";
 
 function Header () {
   return (
-    <nav className="navbar  navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar  navbar-expand-lg">
       <Link className="navbar-brand" to="/">
         Michael Thomas Jones
       </Link>

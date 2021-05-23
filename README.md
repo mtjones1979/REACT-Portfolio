@@ -18,17 +18,15 @@
   ## Usage
   
   * Application Video:
-  [Video Link]()
+  [Video Link](https://gentle-island-89868.herokuapp.com/)
   
   * Screenshots:
-  ![alt text]()
-
+  ![alt text](https://user-images.githubusercontent.com/74076318/119263288-110c9500-bba4-11eb-80bb-524e28713748.png)
+  ![alt text](https://user-images.githubusercontent.com/74076318/119263401-8bd5b000-bba4-11eb-95b7-1396223b2fe4.png)
+  ![alt text](https://user-images.githubusercontent.com/74076318/119263380-72346880-bba4-11eb-8b7b-764ae721e71c.png)
   ## Installation
   React, React-bootstrap, React-carousel, and React-Router-Dom
 
-  ## Test
-  
-  
   ## Contributors
   N/A
   

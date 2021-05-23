@@ -1,6 +1,8 @@
 .image {
-    height: 300px;
-    width: 300px;
+    height: 350px;
+    width: 350px;
     image-rendering:auto;
-    text-align: center;
+    font-size: large;
+    background-position: center;
+    position:relative;
   }

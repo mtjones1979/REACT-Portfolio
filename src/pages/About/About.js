@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "react-bootstrap/Image";
 import "./style.css";
+
 function About() {
   return (
     <div className="container">

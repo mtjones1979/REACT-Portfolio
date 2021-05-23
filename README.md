@@ -13,7 +13,7 @@
   * [Contact](#Contact) 
   
   ## Description 
-  Now that I've worked with React and have multiple projects to share, I'll updated my portfolio to build towards being employer competitve. 
+  Now that I've worked with React and have multiple projects to share, I'll updated my portfolio to build towards being employer competitive. 
 
   ## Usage
   

@@ -1,7 +1,8 @@
 nav.navbar {
     margin-bottom: 0;
     background: black;
-}
-li.nav-item {
     color: white;
+}
+link h3, link h4 {
+    background: white;
 }

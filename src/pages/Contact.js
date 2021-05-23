@@ -1,13 +1,16 @@
 import React from "react";
 
+
 function Contact() {
   return (
-    <div>
+
+  <div>
         <br></br>
         <br></br>
+    
       <h1 className="text-center strong">Michael's Contact Information:</h1>
         <p>
-            <div bg="primary"className="row text-center">
+            <div className="row text-center">
                 <div className="col-lg-12">
                     <br></br>
                     <h4><em>Phone Number: </em> <strong>512-577-3651 </strong></h4>
@@ -31,6 +34,7 @@ function Contact() {
             </div>
         </p>
     </div>
+
   );
 }
 

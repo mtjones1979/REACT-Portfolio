@@ -1,0 +1,6 @@
+.image {
+    height: 300px;
+    width: 300px;
+    image-rendering:auto;
+    text-align: center;
+  }

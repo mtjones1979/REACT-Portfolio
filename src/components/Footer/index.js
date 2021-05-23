@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-        <span>MTJ Production | Privacy | Terms</span>
+        <h3><strong>MTJ Production | Privacy | Terms</strong></h3>
     </footer>
   );
 }
